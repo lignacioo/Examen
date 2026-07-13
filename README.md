@@ -1,5 +1,6 @@
 # Examen
-Codigo del Examen de Programación
+# Codigo del Examen de Programación
+
 juegos = {
     'G001': ['Eclipse Runner', 'PC', 'accion', 'T', True, 'NovaStudio'],
     'G002': ['Puzzle Atlas', 'Switch', 'puzzle', 'E', False, 'BrightWorks'],
